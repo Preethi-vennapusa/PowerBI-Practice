@@ -1,8 +1,10 @@
 # PowerBI-Practice
-Welcome to the Power BI Practice repository! This project is dedicated to hands-on practice with various features and functionalities of Power BI, including tables, graphs, and DAX functions. The aim is to get a proper understanding and practical experience by working on different aspects of Power BI every day.
+Welcome to the Power BI Practice repository! This project is dedicated to hands-on practice with various features and functionalities of Power BI, including tables, graphs, and DAX(DATA ANALYSIS EXPRESSIONS) functions. The aim is to get a proper understanding and practical experience by working on different aspects of Power BI every day.
 
-1) Different Date functions using DAX
-2) Different Logical Functions Using DAX
+1) Different Date functions
+2) Different Logical Functions
+3) Aggregate functions 
+4) Time sentive functions 
 
 [10:34 AM, 6/22/2024] Preethi Reddy: Date: create a date for individual year, month and day
 Date( year, month, day)
